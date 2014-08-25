@@ -60,16 +60,30 @@ PRODUCT_COPY_FILES += \
     vendor/oppo/find7/proprietary/lib/hw/camera.vendor.msm8974.so:system/lib/hw/camera.vendor.msm8974.so \
     vendor/oppo/find7/proprietary/vendor/lib/libchromatix_imx214_common.so:system/vendor/lib/libchromatix_imx214_common.so \
     vendor/oppo/find7/proprietary/vendor/lib/libchromatix_imx214_default_video.so:system/vendor/lib/libchromatix_imx214_default_video.so \
+    vendor/oppo/find7/proprietary/vendor/lib/libchromatix_imx214_default_video_find7s.so:system/vendor/lib/libchromatix_imx214_default_video_find7s.so \
     vendor/oppo/find7/proprietary/vendor/lib/libchromatix_imx214_hfr_120.so:system/vendor/lib/libchromatix_imx214_hfr_120.so \
+    vendor/oppo/find7/proprietary/vendor/lib/libchromatix_imx214_hfr_120_find7s.so:system/vendor/lib/libchromatix_imx214_hfr_120_find7s.so \
     vendor/oppo/find7/proprietary/vendor/lib/libchromatix_imx214_hfr_60.so:system/vendor/lib/libchromatix_imx214_hfr_60.so \
+    vendor/oppo/find7/proprietary/vendor/lib/libchromatix_imx214_hfr_60_find7s.so:system/vendor/lib/libchromatix_imx214_hfr_60_find7s.so \
     vendor/oppo/find7/proprietary/vendor/lib/libchromatix_imx214_liveshot.so:system/vendor/lib/libchromatix_imx214_liveshot.so \
+    vendor/oppo/find7/proprietary/vendor/lib/libchromatix_imx214_liveshot_find7s.so:system/vendor/lib/libchromatix_imx214_liveshot_find7s.so \
     vendor/oppo/find7/proprietary/vendor/lib/libchromatix_imx214_preview.so:system/vendor/lib/libchromatix_imx214_preview.so \
+    vendor/oppo/find7/proprietary/vendor/lib/libchromatix_imx214_preview_binning.so:system/vendor/lib/libchromatix_imx214_preview_binning.so \
+    vendor/oppo/find7/proprietary/vendor/lib/libchromatix_imx214_preview_binning_find7s.so:system/vendor/lib/libchromatix_imx214_preview_binning_find7s.so \
+    vendor/oppo/find7/proprietary/vendor/lib/libchromatix_imx214_preview_find7s.so:system/vendor/lib/libchromatix_imx214_preview_find7s.so \
     vendor/oppo/find7/proprietary/vendor/lib/libchromatix_imx214_snapshot.so:system/vendor/lib/libchromatix_imx214_snapshot.so \
+    vendor/oppo/find7/proprietary/vendor/lib/libchromatix_imx214_snapshot_find7s.so:system/vendor/lib/libchromatix_imx214_snapshot_find7s.so \
     vendor/oppo/find7/proprietary/vendor/lib/libchromatix_imx214_snapshot_hdr.so:system/vendor/lib/libchromatix_imx214_snapshot_hdr.so \
+    vendor/oppo/find7/proprietary/vendor/lib/libchromatix_imx214_snapshot_hdr_find7s.so:system/vendor/lib/libchromatix_imx214_snapshot_hdr_find7s.so \
     vendor/oppo/find7/proprietary/vendor/lib/libchromatix_imx214_video_binning.so:system/vendor/lib/libchromatix_imx214_video_binning.so \
+    vendor/oppo/find7/proprietary/vendor/lib/libchromatix_imx214_video_binning_find7s.so:system/vendor/lib/libchromatix_imx214_video_binning_find7s.so \
     vendor/oppo/find7/proprietary/vendor/lib/libchromatix_imx214_video_hdr.so:system/vendor/lib/libchromatix_imx214_video_hdr.so \
+    vendor/oppo/find7/proprietary/vendor/lib/libchromatix_imx214_video_hdr_find7s.so:system/vendor/lib/libchromatix_imx214_video_hdr_find7s.so \
     vendor/oppo/find7/proprietary/vendor/lib/libchromatix_ov5648_common.so:system/vendor/lib/libchromatix_ov5648_common.so \
     vendor/oppo/find7/proprietary/vendor/lib/libchromatix_ov5648_default_video.so:system/vendor/lib/libchromatix_ov5648_default_video.so \
+    vendor/oppo/find7/proprietary/vendor/lib/libchromatix_ov5648_default_video_find7s.so:system/vendor/lib/libchromatix_ov5648_default_video_find7s.so \
     vendor/oppo/find7/proprietary/vendor/lib/libchromatix_ov5648_preview.so:system/vendor/lib/libchromatix_ov5648_preview.so \
+    vendor/oppo/find7/proprietary/vendor/lib/libchromatix_ov5648_preview_find7s.so:system/vendor/lib/libchromatix_ov5648_preview_find7s.so \
     vendor/oppo/find7/proprietary/vendor/lib/libchromatix_ov5648_zsl.so:system/vendor/lib/libchromatix_ov5648_zsl.so \
+    vendor/oppo/find7/proprietary/vendor/lib/libchromatix_ov5648_zsl_find7s.so:system/vendor/lib/libchromatix_ov5648_zsl_find7s.so \
     vendor/oppo/find7/proprietary/vendor/firmware/libpn544_fw.so:system/vendor/firmware/libpn544_fw.so
