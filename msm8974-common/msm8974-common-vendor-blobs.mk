@@ -124,6 +124,7 @@ PRODUCT_COPY_FILES += \
     vendor/oppo/msm8974-common/proprietary/vendor/lib/libOmxWmaDec.so:system/vendor/lib/libOmxWmaDec.so \
     vendor/oppo/msm8974-common/proprietary/vendor/lib/libSHIMDivxDrm.so:system/vendor/lib/libSHIMDivxDrm.so \
     vendor/oppo/msm8974-common/proprietary/bin/mm-pp-daemon:system/bin/mm-pp-daemon \
+    vendor/oppo/msm8974-common/proprietary/lib/libtinyxml.so:system/lib/libtinyxml.so \
     vendor/oppo/msm8974-common/proprietary/vendor/lib/libdisp-aba.so:system/vendor/lib/libdisp-aba.so \
     vendor/oppo/msm8974-common/proprietary/vendor/lib/libmm-abl-oem.so:system/vendor/lib/libmm-abl-oem.so \
     vendor/oppo/msm8974-common/proprietary/bin/irsc_util:system/bin/irsc_util \
