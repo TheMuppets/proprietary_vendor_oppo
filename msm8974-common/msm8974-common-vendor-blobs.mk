@@ -171,6 +171,7 @@ PRODUCT_COPY_FILES += \
     vendor/oppo/msm8974-common/proprietary/bin/time_daemon:system/bin/time_daemon \
     vendor/oppo/msm8974-common/proprietary/vendor/lib/liblistenhardware.so:system/vendor/lib/liblistenhardware.so \
     vendor/oppo/msm8974-common/proprietary/vendor/lib/liblistenjni.so:system/vendor/lib/liblistenjni.so \
+    vendor/oppo/msm8974-common/proprietary/vendor/lib/liblisten.so:system/vendor/lib/liblisten.so \
     vendor/oppo/msm8974-common/proprietary/vendor/lib/liblistensoundmodel.so:system/vendor/lib/liblistensoundmodel.so \
     vendor/oppo/msm8974-common/proprietary/lib/libwcnss_qmi.so:system/lib/libwcnss_qmi.so
 endif
