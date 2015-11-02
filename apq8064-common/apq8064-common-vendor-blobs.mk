@@ -119,11 +119,11 @@ PRODUCT_COPY_FILES += \
     vendor/oppo/apq8064-common/proprietary/bin/qseecomd:system/bin/qseecomd \
     vendor/oppo/apq8064-common/proprietary/etc/permissions/com.google.widevine.software.drm.xml:system/etc/permissions/com.google.widevine.software.drm.xml \
     vendor/oppo/apq8064-common/proprietary/framework/com.google.widevine.software.drm.jar:system/framework/com.google.widevine.software.drm.jar \
-    vendor/oppo/apq8064-common/proprietary/lib/libdrmdecrypt.so:system/lib/libdrmdecrypt.so \
     vendor/oppo/apq8064-common/proprietary/lib/libdrmdiag.so:system/lib/libdrmdiag.so \
     vendor/oppo/apq8064-common/proprietary/lib/libdrmfs.so:system/lib/libdrmfs.so \
     vendor/oppo/apq8064-common/proprietary/lib/libdrmtime.so:system/lib/libdrmtime.so \
     vendor/oppo/apq8064-common/proprietary/lib/libQSEEComAPI.so:system/lib/libQSEEComAPI.so \
+    vendor/oppo/apq8064-common/proprietary/vendor/lib/libdrmdecrypt.so:system/vendor/lib/libdrmdecrypt.so \
     vendor/oppo/apq8064-common/proprietary/vendor/lib/libwvdrm_L1.so:system/vendor/lib/libwvdrm_L1.so \
     vendor/oppo/apq8064-common/proprietary/vendor/lib/libwvm.so:system/vendor/lib/libwvm.so \
     vendor/oppo/apq8064-common/proprietary/vendor/lib/libWVStreamControlAPI_L1.so:system/vendor/lib/libWVStreamControlAPI_L1.so \
