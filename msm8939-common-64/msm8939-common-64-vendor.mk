@@ -37,4 +37,5 @@ PRODUCT_PACKAGES += \
     libloc_api_v02 \
     libloc_ds_api
 
-$(call inherit-product, vendor/qcom/binaries/msm8916/graphics/graphics-vendor.mk)
+$(call inherit-product, vendor/qcom/binaries/msm8916-32/graphics/graphics-vendor.mk)
+$(call inherit-product, vendor/qcom/binaries/msm8916-64/graphics/graphics-vendor.mk)
