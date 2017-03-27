@@ -24,7 +24,7 @@ PRODUCT_COPY_FILES += \
     /proprietary/vendor/lib/libWVStreamControlAPI_L1.so:system/vendor/lib/libWVStreamControlAPI_L1.so\
     /proprietary/vendor/lib/libgeofence.so:system/vendor/lib/libgeofence.so\
     /proprietary/vendor/lib/libRSDriver_adreno.so:system/vendor/lib/libRSDriver_adreno.so\
-    /proprietary/vendor/lib/hw/vulkan.msm8992.so:system/vendor/lib/hw/vulkan.msm8992.so\
+    /proprietary/vendor/lib/hw/vulkan.msm8916.so:system/vendor/lib/hw/vulkan.msm8916.so\
     /proprietary/vendor/lib/hw/flp.default.so:system/vendor/lib/hw/flp.default.so\
     /proprietary/vendor/lib/libC2D2.so:system/vendor/lib/libC2D2.so\
     /proprietary/vendor/lib/libwvdrm_L1.so:system/vendor/lib/libwvdrm_L1.so\

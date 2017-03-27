@@ -25,7 +25,7 @@ PRODUCT_COPY_FILES += \
     vendor/oppo/msm8939-common-64/proprietary/vendor/lib/egl/libGLESv2_adreno.so:system/vendor/lib/egl/libGLESv2_adreno.so \
     vendor/oppo/msm8939-common-64/proprietary/vendor/lib/egl/libq3dtools_adreno.so:system/vendor/lib/egl/libq3dtools_adreno.so \
     vendor/oppo/msm8939-common-64/proprietary/vendor/lib/hw/flp.default.so:system/vendor/lib/hw/flp.default.so \
-    vendor/oppo/msm8939-common-64/proprietary/vendor/lib/hw/vulkan.msm8992.so:system/vendor/lib/hw/vulkan.msm8992.so \
+    vendor/oppo/msm8939-common-64/proprietary/vendor/lib/hw/vulkan.msm8916.so:system/vendor/lib/hw/vulkan.msm8916.so \
     vendor/oppo/msm8939-common-64/proprietary/vendor/lib/libadreno_utils.so:system/vendor/lib/libadreno_utils.so \
     vendor/oppo/msm8939-common-64/proprietary/vendor/lib/libbccQTI.so:system/vendor/lib/libbccQTI.so \
     vendor/oppo/msm8939-common-64/proprietary/vendor/lib/libC2D2.so:system/vendor/lib/libC2D2.so \
@@ -53,7 +53,7 @@ PRODUCT_COPY_FILES += \
     vendor/oppo/msm8939-common-64/proprietary/vendor/lib64/egl/libGLESv2_adreno.so:system/vendor/lib64/egl/libGLESv2_adreno.so \
     vendor/oppo/msm8939-common-64/proprietary/vendor/lib64/egl/libq3dtools_adreno.so:system/vendor/lib64/egl/libq3dtools_adreno.so \
     vendor/oppo/msm8939-common-64/proprietary/vendor/lib64/hw/flp.default.so:system/vendor/lib64/hw/flp.default.so \
-    vendor/oppo/msm8939-common-64/proprietary/vendor/lib64/hw/vulkan.msm8992.so:system/vendor/lib64/hw/vulkan.msm8992.so \
+    vendor/oppo/msm8939-common-64/proprietary/vendor/lib64/hw/vulkan.msm8916.so:system/vendor/lib64/hw/vulkan.msm8916.so \
     vendor/oppo/msm8939-common-64/proprietary/vendor/lib64/libadreno_utils.so:system/vendor/lib64/libadreno_utils.so \
     vendor/oppo/msm8939-common-64/proprietary/vendor/lib64/libbccQTI.so:system/vendor/lib64/libbccQTI.so \
     vendor/oppo/msm8939-common-64/proprietary/vendor/lib64/libC2D2.so:system/vendor/lib64/libC2D2.so \
